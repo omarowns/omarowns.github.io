@@ -1,21 +1,21 @@
-> **tl;dr**   Web Developer and Software Engineer for web applications and client side software, also with some server architecture/administration notions and could step in if needed
+> **tl;dr** Software Engineer 🤘 mainly `Ruby` and `Ruby on Rails` ♦️
 
-So this is [me](https://lh6.googleusercontent.com/-ODcbehpHfWY/U4LNQo-4TzI/AAAAAAAAACo/NLm4hClkd2g/w590-h589-no/selfie_3.jpg). **24 years old**, **Mexican** by birth, Viking by popular election (whaaaaat?), currently residing in **Aguascalientes, Mexico**. Beautiful sunsets, a sleeping giant type of mountain<sup>[1](https://es.wikipedia.org/wiki/Cerro_del_Muerto)</sup> and the home of the biggest bar and party in the World!<sup>[2](https://en.wikipedia.org/wiki/Feria_Nacional_de_San_Marcos)</sup> (At least LATAM)
+So this is [me](https://avatars0.githubusercontent.com/u/1001797). **25 years old**, **Mexican** by birth, Viking by popular election (whaaaaat?), currently residing in **Guadalajara, Mexico**. Delicious food, great night life and one of the biggest tech cities in Mexico. Originally from **Aguascalientes, Mexico** were the beautiful sunsets with a sleeping giant type of mountain<sup>[1](https://es.wikipedia.org/wiki/Cerro_del_Muerto)</sup> will make you weep and the home of the biggest bar and party in the World!<sup>[2](https://en.wikipedia.org/wiki/Feria_Nacional_de_San_Marcos)</sup> (At least LATAM)
 
 I love long walks, pizza and beer and tacos is a must in my diet.
 
-I currently work @ **MagmaLabs** as a **software engineer**. I do both front-end and back-end development and my current tools of trade are `ruby`, `ruby on rails`, `Javascript`, `AngularJS`.
+I currently work @ **MagmaLabs** as a **software engineer**. I do both front-end and back-end development and my current tools of trade are `ruby`, `ruby on rails`, `Javascript`, `React`.
 
 I also do some freelancing and entrepreneurship stuff and like to work on personal/private projects, mostly involving `ruby`, `ruby on rails` and `javascript`.
 
-I've participated on `Start-up Weekend` events both as attendee and as coach. I've given small workshops about 'Git' and 'Ruby on Rails' and planning on doing more workshops this year and hopefully give a conference at my __alma mater__ by the end of the year.
+I've participated on `StartUp Weekend` events both as attendee and as coach. I've given small workshops about `Git` and `Ruby on Rails`. On September 2016 I gave my fist conference at my __alma matter__ (Universidad Autonoma de Aguascalientes) with the title _A Developers Survival Guide: Best Practices for a Programmer_ targeted to Computer Sciences and Software Engineering students.
 
 Past employers are:
 * Grupo Dicotech, as a Web Developer/Software Engineer
 * Crowd Interactive, as a Web Developer (`ruby` ftw!)
+* AgencyMVP, as a Ruby On Rails Software Engineer/Contractor
 * Softtek, as an Information Security Engineer (trainee)
 * Grupo Sinco (you read that right, not _cinco_ but **_sinco_**), as a half-time developer and sysadmin.
-I also did freelancing for a U.S. startup for like two months while I transitioned from Softtek to Crowd Interactive
 
 
 ### Experience
@@ -41,7 +41,5 @@ You can get in touch with me at [isc.omargarcia@gmail.com](mailto:isc.omargarcia
 [LinkedIn](mx.linkedin.com/in/omargarciaperez)
 
 [Instagram](https://www.instagram.com/omarowns)
-
-[Snapchat](https://raw.githubusercontent.com/omarowns/omarowns.github.io/master/snapcode.png)
 
 [Twitter](https://twitter.com/omarowns)
