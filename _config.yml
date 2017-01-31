@@ -1,0 +1,8 @@
+title: Omar Garcia
+description: Eres mas valiente que Brodo
+google_analytics: UA-60698230-1
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
